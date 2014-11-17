@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another Repository
+Hello all!
+
+I'm a cyboorg from the planet Zorg!
